@@ -1,5 +1,5 @@
 #!/bin/sh
 
 echo "-----> Installing nx"
-npm install -g @nrwl/cli
+npm install -g nx@latest
 echo "-----> Installed nx"
